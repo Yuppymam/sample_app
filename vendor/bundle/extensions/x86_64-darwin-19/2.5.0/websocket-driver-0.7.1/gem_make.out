@@ -1,0 +1,15 @@
+current directory: /Users/yuppy/environment/hello_app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+/Users/yuppy/.rbenv/versions/2.5.6/bin/ruby -r ./siteconf20201109-96460-1lc2vsw.rb extconf.rb
+creating Makefile
+
+current directory: /Users/yuppy/environment/hello_app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/yuppy/environment/hello_app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/yuppy/environment/hello_app/vendor/bundle/gems/websocket-driver-0.7.1/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20201109-96460-1gwsjic
